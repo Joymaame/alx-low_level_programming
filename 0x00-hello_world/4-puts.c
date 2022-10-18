@@ -2,8 +2,8 @@
 
 /*Main print a set of string phrase and returns the int value 0*/
 
-int main (void)
+int main(void)
 {
-	puts ("\"Programming is like building a multilingual puzzle");
+	puts("\"Programming is like building a multilingual puzzle");
 	return (0);
 }

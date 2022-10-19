@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 /**
- * main assigns a random numbe to int n,
- * and it executive and print a positive or negative int
+ * main assigns a random number to int n,
+ * and it executive and print a int value
  * Return: the final result is always 0 and shows 'success'
  */
 

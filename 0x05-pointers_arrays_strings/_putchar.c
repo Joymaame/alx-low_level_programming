@@ -1,4 +1,4 @@
-#include "main.h"
+#include <main.h>
 
 /**
 * _putchar - writes the character c to stdout
@@ -7,7 +7,11 @@
 * on error it prints -1, and  the error number willbe set appropriately.
 */
 
-int _putchar(char c)
+
+void _putchar(char c)
+
 {
+
 	return (write(1, &c, 1));
+
 }

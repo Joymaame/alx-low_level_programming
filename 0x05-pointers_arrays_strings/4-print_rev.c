@@ -16,7 +16,6 @@ void print_rev(char *s)
 		i++;
 	{
 
-	len = 1;
 
 	for (i = i - 1; i >= 0; i--)
 	{
